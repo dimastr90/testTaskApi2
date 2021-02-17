@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "fileTempPath": "./temp/",
+  "imageMaxHeight": 600,
+  "imageMaxWidth": 800,
+  "allowedContentTypes": ["image/jpeg","image/pjpeg","image/png","application/pdf"],
+  "allowedFileTypes": ["jpg","jpeg", "pdf", "png"]
+}
